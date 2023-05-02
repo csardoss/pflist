@@ -1,0 +1,12 @@
+huntress-installers.s3.amazonaws.com
+huntress-updates.s3.amazonaws.com
+huntress-uploads.s3.us-west-2.amazonaws.com
+huntress-user-uploads.s3.amazonaws.com
+huntress-rio.s3.amazonaws.com
+huntress-survey-results.s3.amazonaws.com
+notify.bugsnag.com
+update.huntress.io
+huntress.io
+eetee.huntress.io
+eetee.huntresscdn.com
+huntresscdn.com

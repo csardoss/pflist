@@ -1,0 +1,10 @@
+www.malwarebytes.com
+cleo.mb-internal.com
+links.malwarebytes.com
+iris.mwbsys.com
+my-device.malwarebytes.com
+cdn.mwbsys.com
+sirius.mwbsys.com
+keystone.mwbsys.com
+telemetry.malwarebytes.com
+hubble.mb-cosmos.com
